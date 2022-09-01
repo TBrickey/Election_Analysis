@@ -14,4 +14,4 @@ The Colorado Board of Elections Commission has requested an audit of the electio
 - Diana DeGette won the election with 272,892 votes, leading the competition with 73.8% of the total votes.
 
 ## Election-Audit Summary
-The Python code can easily be used for any elections without the need for additional code. The election commission may want to layer in more details to help tell a story. Additional Python code can be used to compare voter turnout to registered voters. Adding Python code to know what methods votes are being cast thought electronic booth, paper ballot, drop off or mail and where could help to determine future staffing and volunteer needs. 
+The Python code can easily be used for any elections without the need for additional code. The election commission may want to layer in more details to help tell a story. Additional Python code can be used to compare voter turnout to registered voters. Adding Python code to compare voting methods such as electronic booth, paper ballot, and mail and where higher voter turn is located could help determine future staffing and volunteer needs. 
