@@ -3,7 +3,7 @@ Module 3 Python
 
 ## Overview of Election Audit
 
-The Colorado Board of Elections Commission has requested an audit of the election results using data from a .CSV file and Python. The election results included total number of votes, results breakout by county and candidate and the winner of the popular vote. 
+The Colorado Board of Elections Commission has requested an audit of the election results using data from a .CSV file and Python. The election results included total number of votes, results by county, candidate and the winner of the popular vote. 
 
 ## Election-Audit Results
 
